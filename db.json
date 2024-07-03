@@ -163,7 +163,7 @@
         {
             "id": 21,
             "title": "Your Name",
-            "photo": "https://github.com/eliezercode/challenge-aluraflix-api/blob/main/assets/img/movie-veintiuno.webp?raw=true",
+            "photo": "https://github.com/eliezercode/challenge-aluraflix-api/blob/main/assets/img/movie-ventiuno.webp?raw=true",
             "link": "https://www.youtube.com/embed/yPPaLgSXYlM?si=kal08AmoPPh-F0Vj",
             "category": "ANIMADA",
             "description": "Your Name cuenta la historia de Mitsuha, una chica que está harta de su vida en el Japón rural y Taki, un chico que vive en Tokio."
@@ -171,7 +171,7 @@
         {
             "id": 22,
             "title": "Oppenheimer",
-            "photo": "https://github.com/eliezercode/challenge-aluraflix-api/blob/main/assets/img/movie-veintidos.webp?raw=true",
+            "photo": "https://github.com/eliezercode/challenge-aluraflix-api/blob/main/assets/img/movie-ventidos.webp?raw=true",
             "link": "https://www.youtube.com/embed/MVvGSBKV504?si=q2cxgo1PmLfOQGm5",
             "category": "DRAMA",
             "description": "Oppenheimer es un thriller épico filmado en IMAX® que sumerge al público en la intensa paradoja del enigmático hombre que debe arriesgarse a destruir el mundo para salvarlo."
